@@ -20,4 +20,4 @@ Laptop, Chrome browser and a text editor. We recommend Sublime Text 3 for this c
 
 ##Resources
 
-(Udacity)[https://www.udacity.com/course/viewer#!/c-ud015/l-2794468537/m-2695708778]
+[Udacity](https://www.udacity.com/course/viewer#!/c-ud015/l-2794468537/m-2695708778)
